@@ -21,7 +21,7 @@ export default function page() {
         <Collaborate />
         <LovedByFacilitators />
       </div>
-        <ReadyToRun />
+        {/* <ReadyToRun /> */}
     </div>
   );
 }
